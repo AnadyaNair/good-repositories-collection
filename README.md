@@ -1,27 +1,21 @@
-# Collection of many good repositories on GitHub.
-⚠ Please note:
-- The repositories, their content and images are of the respective owners, The Developer Capsule does not take any ownership of them.
-- This is an open source project and is open for contributions.
+## Collection of many good repositories on GitHub.
 
-### Contributing to this collection:
+> Please note: <br>
+> The repositories, their content and images are of the respective owners, The Developer Capsule does not take any ownership of them. <br>
+> This is an open source project and is open for contributions.
+
+## Contributing to this collection:
 - [Fork](https://github.com/TheDeveloperCapsule/good-repositories-collection/fork) this repository.
 - [Add](https://github.com/TheDeveloperCapsule/good-repositories-collection/edit/main/README.md) your list to the bottom of the repositories listed here.
 - Create a [pull request](https://github.com/TheDeveloperCapsule/good-repositories-collection/pulls).
 - Your pull request may be merged, or if isn't, try again next time!
 
 ## The list.
+|Sr no.|Repositories|Respective Details|Respective Authors|
+|:---:|:---:|---|:---:|
+|1|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebookfoundation&repo=free-programming-books)](https://github.com/Ebookfoundation/free-programming-books)|This repository is about free programming books. It also has cheatsheets for all languages.|<a href="https://github.com/EbookFoundation">EbookFoundation</a>|
 
-### [EbookFoundation/free-programming-books](https://github.com/Ebookfoundation/free-programming-books)
-
-<b>About</b>: This repository by EbookFoundation is about free programming books. It also has cheatsheets for all languages.
-
-<details>
-<summary>See the stats</summary>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebookfoundation&repo=free-programming-books)](https://github.com/Ebookfoundation/free-programming-books)
-
-</details>
+### The remaining list is yet to be updated in the tables.
 
 <hr>
 
