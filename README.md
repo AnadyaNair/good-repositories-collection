@@ -11,47 +11,8 @@
 ## The list.
 |Sr no.|Repositories|Respective Details|Respective Authors|
 |:---:|:---:|---|:---:|
-|1|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebookfoundation&repo=free-programming-books)](https://github.com/Ebookfoundation/free-programming-books)|This repository is about free programming books. It also has cheatsheets for all languages.|<a href="https://github.com/EbookFoundation">EbookFoundation</a>|
-
-### The remaining list is yet to be updated in the tables.
-
-<hr>
-
-### [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-
-<b>About</b>: This repository by Piyush Suthar is about adding quotes to your GitHub README.
-
-<details>
-<summary>See the stats</summary>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PiyushSuthar&repo=github-readme-quotes)](https://github.com/PiyushSuthar/github-readme-quotes)
-
-</details>
-
-<hr>
-
-### [facebook/react](https://github.com/facebook/react)
-
-<b>About</b>: This repository by Facebook is about React JS. React is a JavaScript library used by 7M + people.
-
-<details>
-<summary>See the stats</summary>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react)](https://github.com/facebook/react)
-
-</details>
-
-<hr>
-
-### [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-<b>About</b>: This repository by Anurag Hazra is about adding statistics to a GitHub README file.
-<details>
-<summary>See the stats</summary>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+|1|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ebookfoundation&repo=free-programming-books)](https://github.com/Ebookfoundation/free-programming-books)|This repository is about free programming books. It also has cheatsheets for all languages.|[EbookFoundation](https://github.com/EbookFoundation)</a>|
+|2|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PiyushSuthar&repo=github-readme-quotes)](https://github.com/PiyushSuthar/github-readme-quotes)|This repository by Piyush Suthar is about adding quotes to your GitHub README.|[PiyushSuthar](https://github.com/PiyushSuthar)|
+|3|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react)](https://github.com/facebook/react)|This repository by Facebook is about React JS. React is a JavaScript library used by 7M + people.|[facebook](https://github.com/facebook)|
+|4|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)|This repository by Anurag Hazra is about adding statistics to a GitHub README file.|[anuraghazra](https://github.com/anuraghazra)|
+|5|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp)](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp is a friendly community wwhere you can learn to code for free|[freeCodeCamp](https://github.com/freeCodeCamp)|
