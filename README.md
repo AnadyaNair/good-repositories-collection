@@ -1,6 +1,6 @@
 ## Collection of many good repositories on GitHub.
 
-> Please note: The repositories, their content and images are of the respective owners, The Developer Capsule does not take any ownership of them. This is an open source project and is open for contributions.
+> Please note: The repositories, their content are of the respective owners, The Developer Capsule does not take any ownership of them. This is an open source project and is open for contributions.
 
 ## Contributing to this collection:
 - [Fork](https://github.com/TheDeveloperCapsule/good-repositories-collection/fork) this repository.
